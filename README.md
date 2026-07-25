@@ -61,6 +61,10 @@ test-data/
 - DS3231 RTC
 - OLED display
 
+## System architecture
+
+![System architecture](images/ESP32%20Sensorisolmu%20Data%20Flow-2026-07-24-160329.png)
+
 ## Software
 
 - Arduino IDE
