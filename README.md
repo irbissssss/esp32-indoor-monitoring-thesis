@@ -76,14 +76,19 @@ test-data/
 
 ## Current status
 
-Completed:
+Completed
 
 - Main hub firmware
 - Kitchen sensor node firmware
 - Bedroom sensor node firmware
 - ESP-NOW communication
 - Local dashboard
-- CSV logging
+- CSV data logging
+- 24-hour system stability test
+- Dashboard screenshots
+- Test data upload
+- Hardware photographs
+- Project documentation
 
 Planned:
 
